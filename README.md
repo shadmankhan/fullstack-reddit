@@ -1,4 +1,4 @@
-Fullstack Reddit Project
+# Fullstack Reddit Project
 
 Includes the follow technologies:
 
