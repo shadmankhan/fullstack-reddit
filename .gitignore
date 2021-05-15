@@ -1,0 +1,43 @@
+# dependencies
+# Server
+server/node_modules/
+server/dist/
+server/test.txt
+# Web
+web/node_modules
+web/.pnp
+web/.pnp.js
+
+# next.js
+web/.next/
+web/out/
+
+# production
+web/build
+
+# debug
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+
+# local env files
+web/.env
+web/.env.local
+web/.env.development.local
+web/.env.production.local
+
+server/.env
+server/.env.local
+server/.env.test.local
+server/.env.production.local
+
+# misc
+web/.DS_Store
+server/.DS_Store
+
+# vs-code
+.vscode
